@@ -1,0 +1,7 @@
+*.log
+*.txt
+*.ghost
+builtin/
+ilt*
+c7200*
+*private*
