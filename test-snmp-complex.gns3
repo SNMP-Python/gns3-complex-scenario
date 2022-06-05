@@ -159,8 +159,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": 56,
-                            "y": 50
+                            "x": -6,
+                            "y": -29
                         },
                         "node_id": "7dfb7c36-2e35-412f-abee-85b381e81370",
                         "port_number": 0
@@ -988,7 +988,7 @@
                 "compute_id": "local",
                 "console": null,
                 "console_auto_start": false,
-                "console_type": null,
+                "console_type": "none",
                 "custom_adapters": [],
                 "first_port_name": null,
                 "height": 71,
@@ -1031,11 +1031,6 @@
                             "name": "lo",
                             "special": true,
                             "type": "ethernet"
-                        },
-                        {
-                            "name": "tap0",
-                            "special": false,
-                            "type": "tap"
                         },
                         {
                             "name": "wlo1",
@@ -1172,5 +1167,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.32",
-    "zoom": 119
+    "zoom": 100
 }
