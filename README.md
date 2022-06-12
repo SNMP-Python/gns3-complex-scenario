@@ -1,5 +1,5 @@
 <h1 align="center">
-Simple OSPF scenario 🌐
+Complex OSPF scenario 🌐
 </h1>
 
 <h2 align = center> <img align="center" src="https://github.com/SNMP-Python/gns3-complex-scenario/blob/main/ospf-complex.png" /> </h2>
@@ -17,6 +17,3 @@ ip addr add 10.0.0.3/8 dev tap0
 ```
 snmp-server community rocom RO
 ```
-
-# gsn3-complex-scenario
-# gsn3-complex-scenario
